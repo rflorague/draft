@@ -319,6 +319,7 @@ Email: mcjefferson.molina@student.dmmmsu.edu.ph
 Contact:
 
 Quality Assurance:
+
 Name: Rizalyn B. Florague  
 Email: rizalyn.florague@student.dmmmsu.edu.ph  
 Contact: 09155124048
